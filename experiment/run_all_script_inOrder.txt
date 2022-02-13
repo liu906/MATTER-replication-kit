@@ -1,0 +1,18 @@
+
+# compute performance indicators of studied models given threshold(-1 for unalignment, 20 for SSC, and 0.2 for SNM) 
+run_ONE.r
+compareUnderAlignedSQAeffort.r
+# summary result in (1) to one table
+summaryDataForRQ1.r
+
+# run One for rq1 and rq2
+
+getPerformanceForSSCSNM20.r
+
+summaryDataForRQ2.r
+statistic.r
+
+#discurssion 1 excludedCodeSizePercentage
+excluded_code_size_percentage_One.r
+#discurssion 2 get data
+performanceVariesWithCutoff.R
