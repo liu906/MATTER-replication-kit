@@ -1,0 +1,101 @@
+
+D:\OneDrive - Microsoft Student Partners\OneDrive - Student Ambassadors\UCS2\UCS\unsupervised\CLA>call bin\CLAMI.bat -f data/AEEEM-eclipse.arff -l bug -p 1  1>CLA_AEEEM-eclipse.csv 
+command took 0:1:22.16 (82.16s total)
+
+D:\OneDrive - Microsoft Student Partners\OneDrive - Student Ambassadors\UCS2\UCS\unsupervised\CLA>call bin\CLAMI.bat -f data/AEEEM-eclipse.arff -l bug -p 1  1>CLA_AEEEM-eclipse.csv 
+command took 0:1:8.04 (68.04s total)
+
+D:\OneDrive - Microsoft Student Partners\OneDrive - Student Ambassadors\UCS2\UCS\unsupervised\CLA>call bin\CLAMI.bat -f data/AEEEM-eclipse.arff -l bug -p 1  1>CLA_AEEEM-eclipse.csv 
+command took 0:1:0.26 (60.26s total)
+
+D:\OneDrive - Microsoft Student Partners\OneDrive - Student Ambassadors\UCS2\UCS\unsupervised\CLA>call bin\CLAMI.bat -f data/AEEEM-eclipse.arff -l bug -p 1  1>CLA_AEEEM-eclipse.csv 
+command took 0:1:1.41 (61.41s total)
+
+D:\OneDrive - Microsoft Student Partners\OneDrive - Student Ambassadors\UCS2\UCS\unsupervised\CLA>call bin\CLAMI.bat -f data/AEEEM-eclipse.arff -l bug -p 1  1>CLA_AEEEM-eclipse.csv 
+command took 0:1:0.53 (60.53s total)
+
+D:\OneDrive - Microsoft Student Partners\OneDrive - Student Ambassadors\UCS2\UCS\unsupervised\CLA>call bin\CLAMI.bat -f data/AEEEM-eclipse.arff -l bug -p 1  1>CLA_AEEEM-eclipse.csv 
+command took 0:1:2.34 (62.34s total)
+
+D:\OneDrive - Microsoft Student Partners\OneDrive - Student Ambassadors\UCS2\UCS\unsupervised\CLA>call bin\CLAMI.bat -f data/AEEEM-eclipse.arff -l bug -p 1  1>CLA_AEEEM-eclipse.csv 
+command took 0:0:58.19 (58.19s total)
+
+D:\OneDrive - Microsoft Student Partners\OneDrive - Student Ambassadors\UCS2\UCS\unsupervised\CLA>call bin\CLAMI.bat -f data/AEEEM-eclipse.arff -l bug -p 1  1>CLA_AEEEM-eclipse.csv 
+command took 0:0:56.88 (56.88s total)
+
+D:\OneDrive - Microsoft Student Partners\OneDrive - Student Ambassadors\UCS2\UCS\unsupervised\CLA>call bin\CLAMI.bat -f data/AEEEM-eclipse.arff -l bug -p 1  1>CLA_AEEEM-eclipse.csv 
+command took 0:1:0.77 (60.77s total)
+
+D:\OneDrive - Microsoft Student Partners\OneDrive - Student Ambassadors\UCS2\UCS\unsupervised\CLA>call bin\CLAMI.bat -f data/AEEEM-eclipse.arff -l bug -p 1  1>CLA_AEEEM-eclipse.csv 
+command took 0:0:58.95 (58.95s total)
+
+D:\OneDrive - Microsoft Student Partners\OneDrive - Student Ambassadors\UCS2\UCS\unsupervised\CLA>call bin\CLAMI.bat -f data/AEEEM-eclipse.arff -l bug -p 1  1>CLA_AEEEM-eclipse.csv 
+command took 0:0:59.00 (59.00s total)
+
+D:\OneDrive - Microsoft Student Partners\OneDrive - Student Ambassadors\UCS2\UCS\unsupervised\CLA>call bin\CLAMI.bat -f data/AEEEM-eclipse.arff -l bug -p 1  1>CLA_AEEEM-eclipse.csv 
+command took 0:0:58.93 (58.93s total)
+
+D:\OneDrive - Microsoft Student Partners\OneDrive - Student Ambassadors\UCS2\UCS\unsupervised\CLA>call bin\CLAMI.bat -f data/AEEEM-eclipse.arff -l bug -p 1  1>CLA_AEEEM-eclipse.csv 
+command took 0:0:57.28 (57.28s total)
+
+D:\OneDrive - Microsoft Student Partners\OneDrive - Student Ambassadors\UCS2\UCS\unsupervised\CLA>call bin\CLAMI.bat -f data/AEEEM-eclipse.arff -l bug -p 1  1>CLA_AEEEM-eclipse.csv 
+command took 0:0:57.28 (57.28s total)
+
+D:\OneDrive - Microsoft Student Partners\OneDrive - Student Ambassadors\UCS2\UCS\unsupervised\CLA>call bin\CLAMI.bat -f data/AEEEM-eclipse.arff -l bug -p 1  1>CLA_AEEEM-eclipse.csv 
+command took 0:0:59.51 (59.51s total)
+
+D:\OneDrive - Microsoft Student Partners\OneDrive - Student Ambassadors\UCS2\UCS\unsupervised\CLA>call bin\CLAMI.bat -f data/AEEEM-eclipse.arff -l bug -p 1  1>CLA_AEEEM-eclipse.csv 
+command took 0:0:59.25 (59.25s total)
+
+D:\OneDrive - Microsoft Student Partners\OneDrive - Student Ambassadors\UCS2\UCS\unsupervised\CLA>call bin\CLAMI.bat -f data/AEEEM-eclipse.arff -l bug -p 1  1>CLA_AEEEM-eclipse.csv 
+command took 0:0:57.54 (57.54s total)
+
+D:\OneDrive - Microsoft Student Partners\OneDrive - Student Ambassadors\UCS2\UCS\unsupervised\CLA>call bin\CLAMI.bat -f data/AEEEM-eclipse.arff -l bug -p 1  1>CLA_AEEEM-eclipse.csv 
+command took 0:0:59.45 (59.45s total)
+
+D:\OneDrive - Microsoft Student Partners\OneDrive - Student Ambassadors\UCS2\UCS\unsupervised\CLA>call bin\CLAMI.bat -f data/AEEEM-eclipse.arff -l bug -p 1  1>CLA_AEEEM-eclipse.csv 
+command took 0:0:57.71 (57.71s total)
+
+D:\OneDrive - Microsoft Student Partners\OneDrive - Student Ambassadors\UCS2\UCS\unsupervised\CLA>call bin\CLAMI.bat -f data/AEEEM-eclipse.arff -l bug -p 1  1>CLA_AEEEM-eclipse.csv 
+command took 0:0:56.29 (56.29s total)
+
+D:\OneDrive - Microsoft Student Partners\OneDrive - Student Ambassadors\UCS2\UCS\unsupervised\CLA>call bin\CLAMI.bat -f data/AEEEM-eclipse.arff -l bug -p 1  1>CLA_AEEEM-eclipse.csv 
+command took 0:0:57.75 (57.75s total)
+
+D:\OneDrive - Microsoft Student Partners\OneDrive - Student Ambassadors\UCS2\UCS\unsupervised\CLA>call bin\CLAMI.bat -f data/AEEEM-eclipse.arff -l bug -p 1  1>CLA_AEEEM-eclipse.csv 
+command took 0:0:58.10 (58.10s total)
+
+D:\OneDrive - Microsoft Student Partners\OneDrive - Student Ambassadors\UCS2\UCS\unsupervised\CLA>call bin\CLAMI.bat -f data/AEEEM-eclipse.arff -l bug -p 1  1>CLA_AEEEM-eclipse.csv 
+command took 0:1:1.54 (61.54s total)
+
+D:\OneDrive - Microsoft Student Partners\OneDrive - Student Ambassadors\UCS2\UCS\unsupervised\CLA>call bin\CLAMI.bat -f data/AEEEM-eclipse.arff -l bug -p 1  1>CLA_AEEEM-eclipse.csv 
+command took 0:0:58.69 (58.69s total)
+
+
+
+82.16
+68.04
+60.26
+61.41
+60.53
+62.34
+58.19
+56.88
+60.77
+58.95
+59.00
+58.93
+57.28
+57.28
+59.51
+59.25
+57.54
+59.45
+57.71
+56.29
+57.75
+58.10
+61.54
+58.69
+
+
