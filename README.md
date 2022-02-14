@@ -38,7 +38,9 @@ Specifically, the input file which contains the prediction results of prediction
 | 12 | 0.55 | 0 | 1
 | 4 | 0.00 | 0 | 0
 | 831 | 1.00 | 1 | 0
-| 321 | 0.78 | 1 | 1
+| 321 | 0.78 | 1 | 1  
+
+
 **Note that predictLabel and actualBugLabel must be binary, 0 for clean, 1 for defective.**
 
 
